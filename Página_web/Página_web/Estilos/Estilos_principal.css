@@ -1,0 +1,25 @@
+body {
+    background-image: url(/Estilos/Imagenes/Fondo.jpg);
+    font-family: 'Quicksand', sans-serif;
+}
+
+.parrafo{
+    border-radius: 30px;
+    box-shadow: 2px 2px 2px;
+    margin: 1%;
+    padding: 0.5%;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 150%;
+    background-color: rgba(240, 248, 255, 0.747);
+}
+
+h1{
+    text-align: center;
+    color: rgb(158, 197, 231);
+    font-family: 'Pacifico', cursive;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.932);
+    background-color: rgba(240, 248, 255, 0.658);
+    font-size: 85px;
+}
+
+
